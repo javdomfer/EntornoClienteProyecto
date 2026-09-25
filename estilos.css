@@ -37,7 +37,7 @@ header {
 
 .producto {
     flex: 1 1 180px;
-    background: white;
+    background: lightgreen;
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 10px;
@@ -50,7 +50,7 @@ header {
 
 .carrito {
     flex: 1;
-    background: #e8e8e8;
+    background: teal;
     border-radius: 8px;
     padding: 12px;
     min-height: 200px;
