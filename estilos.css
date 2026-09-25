@@ -55,3 +55,7 @@ header {
     padding: 12px;
     min-height: 200px;
 }
+
+.stock-bajo {
+    border: 2px solid red;
+}
